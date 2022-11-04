@@ -1,8 +1,13 @@
-#SHOES STORE
+<img src = "img/logo-color.png"> 
 
-###Atividade para aprendizagem de flexbox, feita durante curso de Web Full Stack da Digital House.
+# SHOES STORE 
 
-O objetivo é a montagem de um site conforme o modelo abaixo:
+## 🎯 Objetivo:
 
+Criar uma página web seguindo o modelo proposto com o objetivo de praticar flexbox.
 
-[](Aula05_Atividade%20-%20Shoes%20Store.pdf)
+👉 Link do modelo: https://www.figma.com/file/saXdAb9rjfQBJUJIxYqr30/Shoes-Store?node-id=0%3A1
+
+## 💻 Tecnologias utilizadas:
+HTML <br>
+CSS
